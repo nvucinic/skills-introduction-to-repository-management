@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @nvucinic
+/src/backend/database.py      @nvucinic
+/src/backend/routers/auth.py  @nvucinic
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @nvucinic
